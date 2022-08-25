@@ -14,7 +14,3 @@ artifacts:
     - appspec.yml
     - templates/layout.html
     - templates/test.html
-    - scripts/mkdir.sh
-    - scripts/start_flask.sh
-    - scripts/stop_flask1.sh
-    - scripts/stop_flask.py
